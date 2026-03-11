@@ -1,4 +1,4 @@
-Mini Flower Shop SQL Project
+ # Mini Flower Shop SQL Project
 
 This project demonstrates a simple SQL database for a flower shop.
 
